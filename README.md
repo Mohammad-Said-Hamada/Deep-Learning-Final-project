@@ -26,7 +26,7 @@ This project implements a deep learning-based Synthetic Aperture Radar (SAR) Aut
 | MobileNetV2   | ~95%                | ~1-2%               | ~3.5M             |
 
 ##  System Architecture
-![System Architecture](system.png)
+![System Architecture](system111.png)
 
 ##  Sample Results  
 - Accuracy and loss curves
