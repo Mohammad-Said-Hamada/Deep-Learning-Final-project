@@ -28,7 +28,7 @@ This project implements a deep learning-based Synthetic Aperture Radar (SAR) Aut
 ##  System Architecture
 ![System Architecture](system.png)
 
-##  Sample Results
+##  Sample Results  
 - Accuracy and loss curves
 - Confusion matrices
 (See figures in `results/` directory)
